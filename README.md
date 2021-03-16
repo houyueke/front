@@ -1,3 +1,11 @@
+<!--
+ * @Descripttion: 
+ * @version: 
+ * @Author: houyueke
+ * @Date: 2021-03-16 14:27:33
+ * @LastEditors: houyueke
+ * @LastEditTime: 2021-03-16 15:58:16
+-->
 # app
 
 ## Build Setup
@@ -16,5 +24,3 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
